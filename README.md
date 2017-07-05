@@ -21,7 +21,7 @@ search result page. These added features improve a user's ability to find what t
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 1. Copy the full code from the edited.html file.
 2. Go to https://i-like-you-minneapolis.myshopify.com/search?q=shirts
-3. Open Google Chrome, and control + click to open Chrome Developer Tools and click on Elements
+3. Open Google Chrome, and control + click to open Chrome Developer Tools and click on the "Elements" tab.
 4. In the html elements, control + click on the body arrow, then click "Edit as HTML"
 5. Paste the edited.html code to replace the current text.
 6. Hit command + return to apply the code, and view in browser.
