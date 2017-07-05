@@ -24,6 +24,6 @@ These instructions will get you a copy of the project up and running on your loc
 3. Open Google Chrome, and control + click to open Chrome Developer Tools and click on Elements
 4. In the html elements, control + click on the body arrow, then click "Edit as HTML"
 5. Paste the edited.html code to replace the current text.
-6. Hit Command + Return to apply the code, and view in browser.
+6. Hit command + return to apply the code, and view in browser.
 
 
