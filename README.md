@@ -3,7 +3,7 @@
 This repository desplays a redesigned search feature which improves the user experience of a web page.
 
 ## The Website
-The search feature I chose to improve was for I Like You, a Minnesota-themed boutique with locations in Minneapolis and St. Paul.
+The search feature I chose to improve was for I Like You, a Minnesota-themed boutique with locations in Minneapolis and St. Paul. https://i-like-you-minneapolis.myshopify.com/
 
 ## The Problem
 I set out to find a website that had a search feature, which was bad from a user experience perspective, and improve the search feature. The search feature on I Like You's website was lacking for several reasons:
