@@ -1,4 +1,4 @@
-# website_search_feature
+# improved_search_feature
 
 This repository desplays a redesigned search feature which improves the user experience of a web page.
 
