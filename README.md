@@ -24,15 +24,21 @@ The mockups displayed above show my thought process as I was thinking through a 
 
 ## Product Example
 
+## Predictive Text/Misspellings
+
+The predictive text feature was not built out in this static representation of the search results page, but a visual representation can be viewed in sketch 6 of the mockups. The way that this feature would work would be to generate a dropdown list of suggested words below the search bar, which are dynamically generated based off of what the user types. This would help the user more quickly get to the search results that they want. It would also help a user in the case of a physical disability to not have to completely type out their entire search. The predictive text feature would also generate suggestions for words that were slightly misspelled, helping to avoid an empty results page. 
+
 ### Search Filter
 
 ![search_filter](search_filter.png)
 
-The code for the search filter can be viewed in the filter_search_results.html file. The filter is not fully functional, but serves as a representation. The purpose of the search filter is to allow the user to narrow their search results, so that they can find the specific item that they are looking for. In the instance of a search for "shirts", the user would then have the ability to sort the search by tags associated with each item. 
+The code for the search filter can be viewed in the filter_search_results.html file. The filter is not fully functional, but serves as a representation of what would be seen on a fully-engineered page. The purpose of the search filter is to allow the user to narrow their search results, so that they can find the specific item that they are looking for. In the instance of a search for "shirts", the user would then have the ability to sort the search by tags associated with each item. Tags associated with different shirts could be Mens, Womens, Neutral, Sleaveless, and 3/4 Sleaves. The reason that I chose a dropdown menu as the method for narrowing the search was to maintain consistency across the site. On the home page, there is a dropdown menu that allows the user to sort by tags. Also, on the search results page, there generally won't be a large number of tags associated with a given item, and dropdown menu can appropriately contain 5-10 tags. 
 
 ### Marketing Banner
 
 ![marketing_banner](marketing_banner.png)
+
+The code for the marketing banners can be viewed in the marketing_banners.html file. The purpose of the marketing banners is to allow I Like You to promote content that is relevant to the user's search. In the instance of a search for "shirts", the user would then see below the search results, a series of 6 items that they may be interested in. These results are static, but in a fully-engineered page, would be dymanically engineered based off of tags associated with the items. Items generated in the marketing banners after a search for "shirts" could be a knit hat, a knit headband, a pair of mittens, an iron-on clothing patch, a pint glass, or a ceramic mug. The reason that the banners are located below the search results is to account for the possibility of the website being viewed on a smaller device size. If the screen size is smaller, the banner elements will simply stack. If the banner elements were to the right side of the search results, there is the possibility that if viewed on a smaller device that the banner items would be intermixed with the search results, which could get convoluted.  
 
  
 ## Getting Started 
