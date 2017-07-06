@@ -15,6 +15,12 @@ I set out to find a website that had a search feature, which was bad from a user
 ## The Solution
 I built a static search results page, which if fully implemented would provide additional features and a better user experience for I Like You's 
 search result page. These added features improve a user's ability to find what they are looking for quickly, minimizes frustration, and helps a user discover new products they are interested in, based off of their search. 
+
+## Mockups
+
+![Mockups](Mockups.jpg)
+
+## Product Example
  
 ## Getting Started 
 
