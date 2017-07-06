@@ -20,13 +20,15 @@ search result page. These added features improve a user's ability to find what t
 
 ![Mockups](Mockups.jpg)
 
+The mockups displayed above show my thought process as I was thinking through a solution. Sketches 1, 2, and 4 were not used in the final product. They were part of the process in determining how to arrange the different elements. Sketch 3 highlights the search filter, which lets the user further narrow the results of their search. Sketch 6 highlights the predictive text feature, which generates results based on what the user is typing to help them find what they are looking for more quickly. Sketch 5 highlights the marketing banners, which are displayed below the search results, to show the user other items they may be interested in based off of their search.
+
 ## Product Example
 
 ### Search Filter
 
 ![search_filter](search_filter.png)
 
-### Marketing Banner Feature
+### Marketing Banner
 
 ![marketing_banner](marketing_banner.png)
 
