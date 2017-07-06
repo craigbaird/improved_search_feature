@@ -1,6 +1,6 @@
 # Improved Search Feature
 
-This repository desplays a redesigned search feature which improves the user experience of a web page.
+This repository displays a redesigned search feature which improves the user experience of a web page.
 
 ## The Website
 The search feature I chose to improve was for I Like You, a Minnesota-themed boutique with locations in Minneapolis and St. Paul. https://i-like-you-minneapolis.myshopify.com/
