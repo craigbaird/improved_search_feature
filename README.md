@@ -22,6 +22,10 @@ search result page. These added features improve a user's ability to find what t
 
 ## Product Example
 
+### Search Filter
+
+![search_filter](search_filter.png)
+
 ### Marketing Banner Feature
 
 ![marketing_banner](marketing_banner.png)
