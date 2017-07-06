@@ -28,6 +28,8 @@ The mockups displayed above show my thought process as I was thinking through a 
 
 ![search_filter](search_filter.png)
 
+The code for the search filter can be viewed in the filter_search_results.html file. The filter is not fully functional, but serves as a representation. The purpose of the search filter is to allow the user to narrow their search results, so that they can find the specific item that they are looking for. In the instance of a search for "shirts", the user would then have the ability to sort the search by tags associated with each item. 
+
 ### Marketing Banner
 
 ![marketing_banner](marketing_banner.png)
