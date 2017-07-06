@@ -24,7 +24,7 @@ The mockups displayed above show my thought process as I was thinking through a 
 
 ## Product Example
 
-## Predictive Text/Misspellings
+### Predictive Text/Misspellings
 
 The predictive text feature was not built out in this static representation of the search results page, but a visual representation can be viewed in sketch 6 of the mockups. The way that this feature would work would be to generate a dropdown list of suggested words below the search bar, which are dynamically generated based off of what the user types. This would help the user more quickly get to the search results that they want. It would also help a user in the case of a physical disability to not have to completely type out their entire search. The predictive text feature would also generate suggestions for words that were slightly misspelled, helping to avoid an empty results page. 
 
