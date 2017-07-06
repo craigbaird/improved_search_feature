@@ -21,6 +21,11 @@ search result page. These added features improve a user's ability to find what t
 ![Mockups](Mockups.jpg)
 
 ## Product Example
+
+### Marketing Banner Feature
+
+![marketing_banner](marketing_banner.png)
+
  
 ## Getting Started 
 
